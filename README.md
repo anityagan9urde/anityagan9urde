@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg?v=2" alt="Anitya Gangurde — from ideas to shipped products" width="100%">
+  <img src="https://raw.githubusercontent.com/anityagan9urde/anityagan9urde/8d16cc9/assets/profile-header.svg" alt="Anitya Gangurde — from ideas to shipped products" width="100%">
 </p>
 
 <h1 align="center">Hey, I'm Anitya 👋</h1>
