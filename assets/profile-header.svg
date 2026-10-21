@@ -6,7 +6,7 @@
       <stop offset="0" stop-color="#0B1022"/>
       <stop offset="1" stop-color="#151D36"/>
     </linearGradient>
-    <linearGradient id="signal" x1="0" x2="1">
+    <linearGradient id="signal" x1="0" x2="1200" y1="0" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#7BE8E2"/>
       <stop offset="1" stop-color="#A18CFF"/>
     </linearGradient>
