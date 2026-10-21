@@ -1,38 +1,54 @@
-### Hello there 👋
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Anitya Gangurde — from ideas to shipped products" width="100%">
+</p>
 
-## I'm Anitya Gangurde. 
-#### Help me make billions.
+<h1 align="center">Hey, I'm Anitya 👋</h1>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=anityagan9urde.anityagan9urde)<br><br>
-![](https://github-readme-stats.vercel.app/api?username=AnityaGan9urde&show_icons=true&theme=tokyonight) <br>
-### - 🌱 I’m currently working as a Technical Product Owner with multiple other hats at a start-up.
-### - Check out my live portfolio website [here](https://anityagan9urde.github.io).
-### - Check out my Kaggle [here](https://www.kaggle.com/anityagangurde).
+<p align="center">
+  Technical Product Manager × AI builder.<br>
+  I turn messy problems into products people can actually use.
+</p>
 
-<!-- ### <a href="https://github.com/AnityaGan9urde/anityagan9urde/blob/main/Resume.pdf" download>Download Resume</a> -->
-### - Languages used on GitHub:<br><br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnityaGan9urde&theme=tokyonight&hide=scss)
-### - Find me at:
-<p>
- <a href="https://linkedin.com/in/anityagan9urde" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:40px"></a>
- <a href="https://twitter.com/anitropy_42" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/nolan/64/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:40px"></a>
- <a href="https://www.reddit.com/user/anityagangs" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/nolan/64/reddit.png" alt="Reddit" height="40" style="vertical-align:top; margin:40px"></a>
- <a href="https://anityagan9urde.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/nolan/64/medium-new.png" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:anityagangurde01@gmail.com"> <img src="https://img.icons8.com/nolan/64/gmail.png" alt="Email" height="40" style="vertical-align:top; margin:40px"></a>
-</p> 
+<p align="center">
+  <a href="https://anityagangurde.space/">Portfolio & case studies</a> ·
+  <a href="https://www.linkedin.com/in/anityagan9urde/">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/anityagangurde">Kaggle</a> ·
+  <a href="https://anityagan9urde.medium.com/">Medium</a> ·
+  <a href="mailto:anityagangurde01@gmail.com">Email me</a>
+</p>
 
-### - I had quite some interest in Data Science (still have it). So check out some of my pinned projects below 👇
+---
 
-<!--
-**AnityaGan9urde/anityagan9urde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm up to
 
-Here are some ideas to get you started:
+- Building AI-powered products at **Strique**, from early prototypes to working workflows.
+- Working across product, design, and engineering. I enjoy the space between a good idea and a useful release.
+- Still curious about data science, especially where research meets something people can use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A few things I've made
+
+| | Project | The interesting bit |
+| :--- | :--- | :--- |
+| 🧭 | [Portfolio & case studies](https://anityagangurde.space/) | Product work across AI, healthcare, research, and more. |
+| 📰 | [News headline classifier](https://github.com/AnityaGan9urde/NEWS-Headline-Classifier-project) | A Django app that classifies headlines with BERT. |
+| 🎸 | [Guitar chord detection](https://github.com/AnityaGan9urde/Guitar-chord-detection) | Deep learning for recognizing chords as they're played. |
+| 📊 | [Bank customer churn](https://github.com/AnityaGan9urde/Bank-Customer-Analysis-and-Churn-Prediction) | Exploring customer data and building a churn model. |
+
+### How I like to work
+
+`Find the real problem` → `Prototype quickly` → `Test with people` → `Ship and learn`
+
+I care about clear product thinking, hands-on building, and making complicated technology feel simple. Outside work, you'll usually find me reading about physics, playing guitar, or tending to plants.
+
+<details>
+  <summary><strong>GitHub stats and languages</strong></summary>
+  <br>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=AnityaGan9urde&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Anitya's GitHub activity stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnityaGan9urde&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;hide=scss" alt="Languages used in Anitya's public GitHub repositories" height="165">
+  </p>
+</details>
+
+---
+
+**Help me make billions.** Have an ambitious idea? [Let's talk.](mailto:anityagangurde01@gmail.com) You can also find me on [Twitter](https://twitter.com/anitropy_42) and [Reddit](https://www.reddit.com/user/anityagangs).
